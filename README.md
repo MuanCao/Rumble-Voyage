@@ -8,7 +8,7 @@ Professor: Paolo Perego
 
 
 GROUP: 24
-- Muan Cao
-- Ruolin Zhao
+- **Muan Cao**
+- **Ruolin Zhao**
 
 
